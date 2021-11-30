@@ -70,7 +70,7 @@ Contributions are welcomed. For major changes, kindly open an issue first to dis
 
 # Footer
 
-Please note that this dataset, and the model that we train in the project, can not be used to diagnose COVID-19 or Viral Pneumonia. This data is only for educational purpose.
+Please note that this dataset, and the model trained in the project, can not be used to diagnose COVID-19 or Viral Pneumonia. This data is only for educational purpose.
 
 Leave a star in the GitHub repository if you found this project helpful!
 
